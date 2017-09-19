@@ -7,7 +7,7 @@ kittens = ['Milo', 'Otis', 'Garfield']
 //make sure i know these well
 //make sad dead kitty happy and alive by passing tests
 
-function destrucivelyAppendKitten() {
+function destrucivelyAppendKitten(array) {
   kittens.unshift('Ralph')
   return kittens
 }
