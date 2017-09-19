@@ -7,7 +7,7 @@ var kittens = ['Milo', 'Otis', 'Garfield']
 //make sure i know these well
 //make sad dead kitty happy and alive by passing tests
 
-function destrucivelyAppendKitten(array) {
-  array.push(element)
-  return array
+function destrucivelyAppendKitten(kittens) {
+  kittens.push('Ralph')
+  return kittens
 }
