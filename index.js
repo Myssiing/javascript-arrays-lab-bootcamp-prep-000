@@ -1,7 +1,7 @@
 const app = "I don't do much."
 
 //Notes and Objectives
-//kittens = ['Milo', 'Otis', 'Garfield']
+kittens = ['Milo', 'Otis', 'Garfield']
 //appending and removing 'Ralph'
 //destructive vs non-destructive
 //make sure i know these well
