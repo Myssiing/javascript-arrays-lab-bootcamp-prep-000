@@ -18,7 +18,12 @@ function kittens() {
 }
 
 
-function destructivelyAppendKitten(name){
-   kittens.push(name)
+function destructivelyAppendKitten(name) {
+  kittens.push(name)
    return kittens
+}
+
+function destructivelyPrependKitten(name) {
+  kittens.unshift(name)
+  return kittens
 }
