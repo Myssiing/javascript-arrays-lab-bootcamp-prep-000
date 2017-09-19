@@ -8,6 +8,6 @@ const app = "I don't do much."
 //make sad dead kitty happy and alive by passing tests
 
 function destrucivelyAppendKitten() {
-  kittens.unshift()
+  kittens.unshift('Ralph')
   return kittens
 }
