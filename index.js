@@ -1,7 +1,7 @@
 const app = "I don't do much."
 
 //Notes and Objectives
-var kittens = ['Milo', 'Otis', 'Garfield']
+//var kittens = ['Milo', 'Otis', 'Garfield']
 //appending and removing 'Ralph'
 //destructive vs non-destructive
 //make sure i know these well
@@ -12,6 +12,11 @@ var kittens = ['Milo', 'Otis', 'Garfield']
   return kittens
 }
 */
+
+function kittens() {
+  var kittens = ['Milo', 'Otis', 'Garfield'];
+}
+
 
 function destructivelyAppendKitten(name){
    kittens.push(name);
